@@ -16,7 +16,7 @@
 </br>
 <div align="center"  width="100%">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sultan435)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sultan435&theme=dark)](https://git.io/streak-stats)
 </div>
 
 </br>
