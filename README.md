@@ -1,5 +1,16 @@
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/sultan435/sultan435/main/Screenshot_13.png "San Juan Mountains")
 
+## 🙋‍♂️ About Me
+
+
+- 🌱 I’m currently learning **NextJs**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 📫 How to reach me **sultanmahmud5998@gmail.com**
+
+- ⚡ Fun fact **Online Games,Football,Cricket,chess**
+
 ## Technologies that I know
 
 </br>
@@ -20,12 +31,3 @@
 </div>
 
 </br>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
