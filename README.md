@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Online Games,Football,Cricket,chess**
 
-## Technologies that I know
+## 🚀 Languages and Tools:
 
 </br>
 <div align="center">
